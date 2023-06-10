@@ -8,7 +8,7 @@ class JenkinsProjectApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("jenkins project");
+        System.out.println("jenkins");
     }
 
 }
